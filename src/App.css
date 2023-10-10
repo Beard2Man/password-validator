@@ -1,0 +1,14 @@
+.container {
+  margin: auto;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+  justify-content: center;
+}
+.password {
+  display: flex;
+  flex-direction: column;
+}
+/* .message {
+  color: red;
+} */
